@@ -21,6 +21,7 @@
 
 ## 🏆 Habilidades e Links
 
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -32,6 +33,21 @@
   <img align="center" alt="BootsTrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <!--img align="center" alt="" heigth="30" width="40" src=""-->
+</div>
+<br>
+
+
+<p align="center">
+  <img width="100%" src="assets/gifghibli.gif">
+</p>
+<br>
+
+<div align="center"><br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-01242007111203200607/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whosvitu_/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df3c7f&height=120&section=footer"/>
