@@ -22,7 +22,7 @@
 ## 🏆 Habilidades e Links
 
 <br>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
