@@ -8,7 +8,7 @@
 
 <p>- <b>Olá visitante!</b> Agradeço seu tempo para dar atenção ao meu cantinho, aqui você poderá <b>visualizar uma parte do que eu produzo</b> e busco compartilhar com outras pessoas, se você não me conhece, meu nome é <b>Victor Barbosa</b>, atualmente tenho <b>18 anos</b> e estou estudando <b>Análise e Desenvolvimento de Sistemas na CESAR School</b>, através do programa Embarque Digital. Sou formado como <b>Técnico em Desenvolvimento de Sistemas pela ETE Porto Digital</b> e me atualmente estou buscando me especializar em desenvolvimento <b>front-end.</b></p><br>
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=49% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorb-s&show=prs_merged&include_all_commits=true&rank_icon=github&show_icons=true&theme=radical"/>
   </a>
