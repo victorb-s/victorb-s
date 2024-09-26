@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df3c7f&height=120&section=header"/>
 
-# 📔 Seja bem-vindo ao meu cantinho especial!
+# 📔 Seja bem-vindo ao meu portfólio!
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=3000&pause=1000&color=DF3C7F&random=false&width=435&lines=Me+chamo+Victor+Barbosa;Tenho+18+anos+%F0%9F%90%BC;Estudante+de+ADS+na+CESAR+School)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=28&duration=2500&pause=500&color=DF3C7F&random=false&width=550&lines=Me+chamo+Victor+Barbosa!;Desenvolvedor+FrontEnd+em+formação;Estudante+de+ADS+na+CESAR+School)](https://git.io/typing-svg)
 
 <p>- <b>Olá visitante!</b> Agradeço seu tempo para dar atenção ao meu cantinho, aqui você poderá <b>visualizar uma parte do que eu produzo</b> e busco compartilhar com outras pessoas, se você não me conhece, meu nome é <b>Victor Barbosa</b>, atualmente tenho <b>18 anos</b> e estou estudando <b>Análise e Desenvolvimento de Sistemas na CESAR School</b>, através do programa Embarque Digital. Sou formado como <b>Técnico em Desenvolvimento de Sistemas pela ETE Porto Digital</b> e me atualmente estou buscando me especializar em desenvolvimento <b>front-end.</b></p><br>
 
