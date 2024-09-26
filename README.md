@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=df3c7f&height=120&section=header"/>
 
-# 📔 Seja bem-vindo ao meu portfólio!
+# 💻 Seja bem-vindo ao meu portfólio!
 <br>
 <br>
 
