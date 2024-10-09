@@ -6,11 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=28&duration=2500&pause=500&color=DF3C7F&random=false&width=550&lines=Me+chamo+Victor+Barbosa!;Desenvolvedor+FrontEnd+em+formação;Estudante+de+ADS+na+CESAR+School)](https://git.io/typing-svg)
 
-<p><b>Olá visitante!</b> Agradeço seu tempo para dar atenção aos meus projetos, aqui você poderá <b>visualizar uma parte do que eu produzo</b> e busco compartilhar com outras pessoas!
-  
-Caso não me conheça ainda, meu nome é <b>Victor Barbosa</b>, atualmente tenho <b>18 anos</b> e estou estudando <b>Análise e Desenvolvimento de Sistemas na CESAR School</b>, através do programa Embarque Digital.
-
-Sou formado como <b>Técnico em Desenvolvimento de Sistemas pela ETE Porto Digital</b> e atualmente estou buscando me especializar em desenvolvimento <b>front-end.</b></p><br>
+<p align="center">Olá, boas-vindas ao meu perfil, agradeço a visita!<br> Cheque meus <b>principais repositórios</b> no final desta seção e algumas<br> das minhas habilidades logo abaixo, assim como minhas <b>tecnologias mais utilizadas!</b></p><br><br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
